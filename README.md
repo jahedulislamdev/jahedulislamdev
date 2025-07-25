@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jahedul Islam Jishan
 
-🎓 I’m a passionate and dedicated **student developer** who enjoys building **interactive, complex, and user-centric web applications**. I love solving real-world problems with clean, scalable, and professional web solutions.
+🎓 I’m a passionate and dedicated **web developer** who enjoys building **interactive, complex, and user-centric web applications**. I love solving real-world problems with clean, scalable, and professional web solutions.
 
 ---
 
